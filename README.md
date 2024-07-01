@@ -5,7 +5,9 @@
 -[Data Sources](#data-sources)
 -[Tools](#tools)
 -[Key Questions](#key-questions)
-- 
+-[Results/Findings](#results/findings) 
+-[Recommendations](#recommendations)
+-[Code Instructions](#code-instructions)
 
 ### Project Overview
 
